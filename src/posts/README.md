@@ -7,8 +7,7 @@ icon: file
 index: false
 author: Ms.Sanliy
 date: 2024-06-06
-category: 
-  - 目录
+category: 目录
 tag:
 
 sticky: false
