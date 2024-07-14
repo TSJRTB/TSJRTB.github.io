@@ -5,9 +5,8 @@ export default navbar([
   {
     text: "精华",
     icon: "medal",
-    prefix: "/posts/",
     children: [
-
+      "/intro"
     ],
   },
   {
