@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://TSJR-TB.github.io/sitemap.xml
+Sitemap: https://tsjrtb.github.io/sitemap.xml

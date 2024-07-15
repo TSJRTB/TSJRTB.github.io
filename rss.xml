@@ -1,29 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://TSJR-TB.github.io/rss.xsl"?>
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://tsjrtb.github.io/rss.xsl"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <atom:link href="https://TSJR-TB.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://tsjrtb.github.io/rss.xml" rel="self" type="application/rss+xml"/>
     <title>变身嫁人小说</title>
-    <link>https://TSJR-TB.github.io/</link>
+    <link>https://tsjrtb.github.io/</link>
     <description>变身嫁人小说吧的博客</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 15 Jul 2024 13:37:21 GMT</pubDate>
-    <lastBuildDate>Mon, 15 Jul 2024 13:37:21 GMT</lastBuildDate>
+    <pubDate>Mon, 15 Jul 2024 13:49:50 GMT</pubDate>
+    <lastBuildDate>Mon, 15 Jul 2024 13:49:50 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>书单</category>
     <category>目录</category>
     <item>
       <title>书单</title>
-      <link>https://TSJR-TB.github.io/posts/book_list/</link>
-      <guid>https://TSJR-TB.github.io/posts/book_list/</guid>
-      <source url="https://TSJR-TB.github.io/rss.xml">书单</source>
+      <link>https://tsjrtb.github.io/posts/book_list/</link>
+      <guid>https://tsjrtb.github.io/posts/book_list/</guid>
+      <source url="https://tsjrtb.github.io/rss.xml">书单</source>
       <pubDate>Sun, 14 Jul 2024 18:15:24 GMT</pubDate>
     </item>
     <item>
       <title>完结变嫁小说推荐汇总</title>
-      <link>https://TSJR-TB.github.io/posts/book_list/2023/%E7%AC%AC%E4%B8%80%E6%9C%9F.html</link>
-      <guid>https://TSJR-TB.github.io/posts/book_list/2023/%E7%AC%AC%E4%B8%80%E6%9C%9F.html</guid>
-      <source url="https://TSJR-TB.github.io/rss.xml">完结变嫁小说推荐汇总</source>
+      <link>https://tsjrtb.github.io/posts/book_list/2023/%E7%AC%AC%E4%B8%80%E6%9C%9F.html</link>
+      <guid>https://tsjrtb.github.io/posts/book_list/2023/%E7%AC%AC%E4%B8%80%E6%9C%9F.html</guid>
+      <source url="https://tsjrtb.github.io/rss.xml">完结变嫁小说推荐汇总</source>
       <description>完结变嫁小说推荐汇总 注意事项 此贴仅收录2017-2023年完结的变身嫁人完结小说。 此贴优先推荐近期完结的书籍。 此贴发布后，直至年底都会不断补充新完结的变嫁小说。 受度娘心情影响，此贴可能会发生神隐现象。比如吞楼…… 此贴汇总的变身嫁人完结小说肯定会有所遗漏，欢迎大家进行补充。 此贴鼓励吧友交流互动，如有看法和建议可在书楼层中回复交流。禁止口吐芬...</description>
       <category>书单</category>
       <pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
@@ -45,9 +45,9 @@
     </item>
     <item>
       <title>关于我们</title>
-      <link>https://TSJR-TB.github.io/intro.html</link>
-      <guid>https://TSJR-TB.github.io/intro.html</guid>
-      <source url="https://TSJR-TB.github.io/rss.xml">关于我们</source>
+      <link>https://tsjrtb.github.io/intro.html</link>
+      <guid>https://tsjrtb.github.io/intro.html</guid>
+      <source url="https://tsjrtb.github.io/rss.xml">关于我们</source>
       <description>关于我们 欢迎来到变身嫁人小说吧，这里是热爱变嫁文学的你的温馨家园。在这里，我们共同追求那份独特的阅读体验，一同探索变嫁故事的无穷魅力。 变身嫁人小说吧，是一个专注于变嫁题材的网络文学交流平台。我们汇聚了一群热爱变身嫁人小说的朋友，大家因为共同的兴趣而走到一起，分享阅读心得，推荐优秀作品，以及创作自己的变嫁小说。在这里，你可以畅读各种精彩的变嫁小说，感...</description>
       <pubDate>Sun, 14 Jul 2024 16:31:42 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -57,13 +57,13 @@
 <p>  我们的社区氛围友好而和谐，大家互相支持，共同进步。在这里，你可以找到与你品味相投的书友，一起探讨变嫁小说的魅力所在，也可以结识到志趣相投的朋友，共同开启一段美妙的文学之旅。</p>
 <p>  感谢每一位来到变身嫁人小说吧的朋友，是你们的热情与支持让这里充满活力与温暖。让我们携手共进，共同书写属于我们的精彩篇章！</p>
 ]]></content:encoded>
-      <enclosure url="https://TSJR-TB.github.io/assets/images/cover3.jpg" type="image/jpeg"/>
+      <enclosure url="https://tsjrtb.github.io/assets/images/cover3.jpg" type="image/jpeg"/>
     </item>
     <item>
       <title>这是所有文章的目录</title>
-      <link>https://TSJR-TB.github.io/posts/</link>
-      <guid>https://TSJR-TB.github.io/posts/</guid>
-      <source url="https://TSJR-TB.github.io/rss.xml">这是所有文章的目录</source>
+      <link>https://tsjrtb.github.io/posts/</link>
+      <guid>https://tsjrtb.github.io/posts/</guid>
+      <source url="https://tsjrtb.github.io/rss.xml">这是所有文章的目录</source>
       <category>目录</category>
       <pubDate>Thu, 06 Jun 2024 00:00:00 GMT</pubDate>
     </item>
