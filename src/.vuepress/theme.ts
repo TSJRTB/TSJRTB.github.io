@@ -40,7 +40,7 @@ export default hopeTheme({
       GitHub: "https://github.com/TSJR-TB",
       Lark: "https://example.com",
       QQ: "https://pd.qq.com/s/6v96u5vnd",
-      Rss: "https://example.com",
+      Rss: "/rss.xml",
       Wechat: "https://example.com",
       Weibo: "https://example.com"
     },
