@@ -209,10 +209,10 @@ export default hopeTheme({
     notice: [
       {
         path: "/",
-        title: "公告标题",
-        content: "这是一段公告内容",
+        title: "公告",
+        content: "欢迎来到嫁吧博客",
         showOnce: true,
-        key: "20240606.01"
+        key: "20240715.01"
       }
     ]
   },
