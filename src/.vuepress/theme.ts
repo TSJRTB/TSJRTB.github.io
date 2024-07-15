@@ -214,6 +214,15 @@ export default hopeTheme({
         showOnce: true,
         key: "20240715.01"
       }
-    ]
+    ],
+    // RSS设置
+    feed: {
+      rss: true,
+      channel: {
+        pubDate: "2024-07-15T20:00:00.000Z",
+        ttl: 60,
+      }
+    },
   },
-});
+})
+;
