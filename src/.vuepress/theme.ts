@@ -3,7 +3,7 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://TSJR-TB.github.io",
+  hostname: "https://tsjrtb.github.io",
 
   author: {
     name: "贴吧@变身嫁人小说吧",
@@ -14,7 +14,7 @@ export default hopeTheme({
 
   logo: "/logo.png",
 
-  repo: "TSJR-TB/TSJR-TB.github.io",
+  repo: "TSJRTB/TSJRTB.github.io",
 
   docsDir: "src",
 
@@ -219,6 +219,7 @@ export default hopeTheme({
     feed: {
       rss: true,
       channel: {
+        //@ts-ignore
         pubDate: "2024-07-15T20:00:00.000Z",
         ttl: 60,
       }
